@@ -1,3 +1,3 @@
 module github.com/webmstk/jsoner
 
-go 1
+go 1.18
